@@ -8,6 +8,9 @@
 # testing
 /coverage
 
+/sanityyoutube/node_modules
+/sanityyoutube/dist
+
 # next.js
 /.next/
 /out/
